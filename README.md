@@ -1,2 +1,2 @@
 # cs50p-rebuild
-My full Python rebuild using Harvard's CS50P
+My full Python knowledge and skill rebuild using Harvard's CS50P
