@@ -20,7 +20,6 @@ except ValueError:
     
 try:
     response = requests.get("https://rest.coincap.io/v3/assets/bitcoin?apiKey=c296b09bd5169216d74b3c95ff83f7e708713472b44bf4c96c20696966e5cf1f")
-    print(response.json())
     price = float(response.json()["data"]["priceUsd"])
     output = price * bitcoins
     print(f"${output:,.4f}")
