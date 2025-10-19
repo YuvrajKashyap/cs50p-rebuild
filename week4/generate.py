@@ -7,3 +7,4 @@ number = random.shuffle(colors)
 for color in colors:
     print(color)
     
+#testing for new laptop and github connection
