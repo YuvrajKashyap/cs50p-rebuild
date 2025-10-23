@@ -8,11 +8,27 @@ for _ in range(3):
 
 for name in sorted(names):
     print(f"hello, {name}")
-"""
+
 
 name = input("What's your name? ")
 
-file = open("names.txt", "a")
-file.write(f"{name}\n")
-file.close()
+
+with open("names.txt", "a") as file:
+    file.write(f"{name}\n")
+
+    
+
+    lines = file.readlines()
+
+for line in lines:
+    print("hello,", line.rstrip())
+
+
+
+    """
+
+
+with open("names.txt") as file:
+    for line in sorted(file):
+        print("hello,", line.rstrip())
 
