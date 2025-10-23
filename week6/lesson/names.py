@@ -28,7 +28,7 @@ for line in lines:
     """
 
 
-with open("names.txt") as file:
+with open("names.csv") as file:
     for line in sorted(file):
         print("hello,", line.rstrip())
 
