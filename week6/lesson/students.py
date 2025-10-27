@@ -4,4 +4,6 @@ with open("students.csv") as file:
         print(f"{name} is in {house}")
         print(f"{house} houses {name}\n")
 
-        #remembering everything and revisiting
+        #last day of procrastination. you promised.
+
+        #stop hurting your future
