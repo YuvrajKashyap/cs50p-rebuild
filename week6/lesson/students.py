@@ -7,3 +7,5 @@ with open("students.csv") as file:
         #last day of procrastination. you promised.
 
         #stop hurting your future
+
+        #okay so if you don't start today, you're literally fucked bro. EVERYONE is ahead of you. you wanna go back to india and live an average life? you make me sick. you're actively killing your future and potential
