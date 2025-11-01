@@ -23,3 +23,5 @@ try:
 
 except FileNotFoundError:
     sys.exit("Unable to open file")
+
+    #lock in after exam
