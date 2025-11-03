@@ -25,3 +25,4 @@ except FileNotFoundError:
     sys.exit("Unable to open file")
 
     #lock in after exam
+    # tmrw you lock back in and get back on grind mode
