@@ -26,3 +26,4 @@ except FileNotFoundError:
 
     #lock in after exam
     # tmrw you lock back in and get back on grind mode
+    #good job on exam, now lock tf in, you're behind
