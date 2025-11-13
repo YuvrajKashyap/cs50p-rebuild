@@ -13,3 +13,4 @@ else:
 
 
 #throwaway day. please fix sleep schedule. you better have woken up on time today   
+#no excuses anymore. wake the fuck up... literally.
